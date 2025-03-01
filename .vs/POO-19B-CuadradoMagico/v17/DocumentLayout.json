@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EDISON\\Downloads\\PROYECTOS\\CuadradoMagico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{752F41A1-751A-472F-B0D2-56DAA87A97DA}|POO-19B-CuadradoMagico.csproj|c:\\users\\edison\\downloads\\proyectos\\cuadradomagico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752F41A1-751A-472F-B0D2-56DAA87A97DA}|POO-19B-CuadradoMagico.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752F41A1-751A-472F-B0D2-56DAA87A97DA}|POO-19B-CuadradoMagico.csproj|c:\\users\\edison\\downloads\\proyectos\\cuadradomagico\\class\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752F41A1-751A-472F-B0D2-56DAA87A97DA}|POO-19B-CuadradoMagico.csproj|solutionrelative:class\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752F41A1-751A-472F-B0D2-56DAA87A97DA}|POO-19B-CuadradoMagico.csproj|c:\\users\\edison\\downloads\\proyectos\\cuadradomagico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{752F41A1-751A-472F-B0D2-56DAA87A97DA}|POO-19B-CuadradoMagico.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\EDISON\\Downloads\\PROYECTOS\\CuadradoMagico\\Class\\Class1.cs",
+              "RelativeDocumentMoniker": "Class\\Class1.cs",
+              "ToolTip": "C:\\Users\\EDISON\\Downloads\\PROYECTOS\\CuadradoMagico\\Class\\Class1.cs",
+              "RelativeToolTip": "Class\\Class1.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAUwJsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T21:16:49.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\EDISON\\Downloads\\PROYECTOS\\CuadradoMagico\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\EDISON\\Downloads\\PROYECTOS\\CuadradoMagico\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJkCAAAAAAAAAAAuwH4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:56:45.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\EDISON\\Downloads\\PROYECTOS\\CuadradoMagico\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\EDISON\\Downloads\\PROYECTOS\\CuadradoMagico\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:30:09.83Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

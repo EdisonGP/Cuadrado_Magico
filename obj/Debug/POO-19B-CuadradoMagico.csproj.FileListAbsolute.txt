@@ -1,0 +1,82 @@
+D:\MacArthur Full\Documents\Visual Studio 2019\Projects\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe.config
+D:\MacArthur Full\Documents\Visual Studio 2019\Projects\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe
+D:\MacArthur Full\Documents\Visual Studio 2019\Projects\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.pdb
+D:\MacArthur Full\Documents\Visual Studio 2019\Projects\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csprojAssemblyReference.cache
+D:\MacArthur Full\Documents\Visual Studio 2019\Projects\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Form1.resources
+D:\MacArthur Full\Documents\Visual Studio 2019\Projects\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Properties.Resources.resources
+D:\MacArthur Full\Documents\Visual Studio 2019\Projects\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.GenerateResource.cache
+D:\MacArthur Full\Documents\Visual Studio 2019\Projects\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.exe
+D:\MacArthur Full\Documents\Visual Studio 2019\Projects\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\DEBERES\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\DEBERES\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\DEBERES\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\DEBERES\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe.config
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\DEBERES\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\DEBERES\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.GenerateResource.Cache
+D:\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe.config
+D:\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe
+D:\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.pdb
+D:\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csprojAssemblyReference.cache
+D:\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Form1.resources
+D:\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Properties.Resources.resources
+D:\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.GenerateResource.cache
+D:\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.exe
+D:\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\matth\Desktop\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe.config
+C:\Users\matth\Desktop\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\matth\Desktop\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\matth\Desktop\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Form1.resources
+C:\Users\matth\Desktop\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Properties.Resources.resources
+C:\Users\matth\Desktop\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.GenerateResource.cache
+C:\Users\matth\Desktop\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\matth\Desktop\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe.config
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\POO-19B-CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\User\Documents\Visual Studio 2015\DEBERES\POO-19B-CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\User\Documents\Visual Studio 2015\ProyectosPOO_C#\DEBERES\CuadradoMagicoMatthew\bin\Debug\POO-19B-CuadradoMagico.exe.config
+C:\Users\User\Documents\Visual Studio 2015\ProyectosPOO_C#\DEBERES\CuadradoMagicoMatthew\obj\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\User\Documents\Visual Studio 2015\ProyectosPOO_C#\DEBERES\CuadradoMagicoMatthew\obj\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\User\Documents\Visual Studio 2015\ProyectosPOO_C#\DEBERES\CuadradoMagicoMatthew\bin\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\User\Documents\Visual Studio 2015\ProyectosPOO_C#\DEBERES\CuadradoMagicoMatthew\bin\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\User\Documents\Visual Studio 2015\ProyectosPOO_C#\DEBERES\CuadradoMagicoMatthew\obj\Debug\POO-19B-CuadradoMagico.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\ProyectosPOO_C#\DEBERES\CuadradoMagicoMatthew\obj\Debug\POO_19B_CuadradoMagico.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\ProyectosPOO_C#\DEBERES\CuadradoMagicoMatthew\obj\Debug\POO_19B_CuadradoMagico.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\ProyectosPOO_C#\DEBERES\CuadradoMagicoMatthew\obj\Debug\POO-19B-CuadradoMagico.csproj.GenerateResource.Cache
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe.config
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\bin\Debug\POO-19B-CuadradoMagico.pdb
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.AssemblyReference.cache
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Form1.resources
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\obj\Debug\POO_19B_CuadradoMagico.Properties.Resources.resources
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.GenerateResource.cache
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.csproj.CoreCompileInputs.cache
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.exe
+C:\Users\EDISON\Downloads\PROYECTOS\CuadradoMagico\obj\Debug\POO-19B-CuadradoMagico.pdb
